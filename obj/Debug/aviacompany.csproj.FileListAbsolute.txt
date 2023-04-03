@@ -1,0 +1,30 @@
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.exe.config
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.exe
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.pdb
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.AssemblyReference.cache
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Properties.Resources.resources
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.GenerateResource.cache
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.CoreCompileInputs.cache
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.exe
+C:\Users\juhuu\Desktop\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.pdb
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.exe.config
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.exe
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\bin\Debug\aviacompany.pdb
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.AssemblyReference.cache
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.AddUsers.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.AdminInterface.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.DB.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.EditRole.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Import.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Login.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Manager.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Properties.Resources.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Schedule_edit.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.Timer.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.UserInterface.resources
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.GenerateResource.cache
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.csproj.CoreCompileInputs.cache
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.exe
+C:\Users\chebo\OneDrive\Рабочий стол\cc2\aviacompany\aviacompany\aviacompany\obj\Debug\aviacompany.pdb
